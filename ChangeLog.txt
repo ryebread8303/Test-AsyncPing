@@ -1,0 +1,3 @@
+1.2: Added comment based help.
+1.1: Added OnlineOnly switch to filter out all machines that did not reply to ping. Added capability to receive machines names through pipeline.
+1.0: Initial release.
